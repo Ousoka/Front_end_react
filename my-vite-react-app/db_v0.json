@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "blog_image_src": "src/assets/images/uam.jpg",
+          "author": "Albert Bakhoum",
+          "author_image": "src/assets/images/asb.jpeg",
+          "timestamp": "02/01/2025",
+          "blog_title": "First Blog Post",
+          "blog_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, velit sed bibendum bibendum, purus velit sagittis velit, et consectetur nunc nisi euismod nisi."
+        },
+        {
+          "id": 2,
+          "blog_image_src": "src/assets/images/crous.jpg",
+          "author": "Souleymane Diallo",
+          "author_image": "src/assets/images/sdley.jpeg",
+          "timestamp": "01/01/2025",
+          "blog_title": "Second Blog Post",
+          "blog_description": "Donec id ipsum non urna consectetur gravida. Duis nec ligula a ex tincidunt euismod. Nullam vel urna non velit pellentesque bibendum."
+        },
+        {
+          "id": 3,
+          "blog_image_src": "src/assets/images/khouma.jpg",
+          "author": "Pape Moussa Diop",
+          "author_image": "src/assets/images/joob.jpeg",
+          "timestamp": "31/12/2024",
+          "blog_title": "Third Blog Post",
+          "blog_description": "Quisque id ex at nunc viverra tempor. Duis quis velit vel ex bibendum facilisis non et lectus."
+        }
+      ]
+}
